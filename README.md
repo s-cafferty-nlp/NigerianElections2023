@@ -10,15 +10,15 @@
 
 ### There were four main candidates in Nigeria's 2023 election - Obi, Abubakar, Tinubu, and Kwankwaso. Of these candidates, Obi was by far the most discussed on Twitter, followed by Tinubu.
 
-![alt text]()
+![alt text](https://github.com/s-cafferty-nlp/NigerianElections2023/blob/main/data/count.png)
 
 ### Despite having high net-positivity on Twitter, Obi lost the election while Tinubu won with a lower ratio of 'positive' Tweets.
 
-![alt text]()
+![alt text](https://github.com/s-cafferty-nlp/NigerianElections2023/blob/main/data/net_positivity.png)
 
 ### Net positivity varied by region. Abubakar was tweeted about most positivly in Abuja while Obi was tweeted about most positively in Lagos and abroad. Most notable, Tinubu was particularly unpopular abroad with a negative net positivity.
 
-![alt text]()
+![alt text](https://github.com/s-cafferty-nlp/NigerianElections2023/blob/main/data/location.png)
 
 ## Conclusion
 
